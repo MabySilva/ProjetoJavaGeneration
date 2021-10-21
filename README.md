@@ -14,21 +14,3 @@ Aqui fica o nosso diagrama:
 
 ![diagrama](https://user-images.githubusercontent.com/19335381/137734982-af400812-5728-4094-8068-9dd4f010fb1c.png)
 
-
-<h1>
-  Esse projeto foi feito por: 
-</h1>
-<br>
-    Gustavo Sousa Martins 
-    <br>
-	  Mabile 			
-    <br>
-    Nathália
-    <br>
-		Rafael Edgar Rodrigues
-    <br>
-		Tobias Gustavo Soares 
-<h3>
-Toda a documentação está aqui:
-</h3>
-https://docs.google.com/document/d/1Vpm9VpvzLPXgCxmfsvBXaA0NRcK3dJWmlNckr8MQNfE/edit?usp=sharing
